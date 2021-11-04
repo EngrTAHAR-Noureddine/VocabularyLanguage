@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GuessWord</string>
+    <string name="valider">Valider</string>
+    <string name="entrez_un_mot">Entrez un mot</string>
+    <string name="mot">Mot…</string>
+    <string name="text_explain">Jeuez avec application pour deviner un mot et obtenir un score de 5 points pour la bonne réponse.</string>
+    <string name="score">Score:</string>
+    <string name="number">0</string>
+    <string name="message">message</string>
+</resources>
